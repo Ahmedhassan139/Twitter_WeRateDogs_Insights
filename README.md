@@ -69,3 +69,9 @@ The top 5 breeds of dogs tweeted is golden_retriever as in the figure below , bu
 
 <img width="628" alt="Screen Shot 2022-03-20 at 2 19 52 AM" src="https://user-images.githubusercontent.com/54185918/159142807-199527cf-10e3-477b-877e-64e96842a9aa.png">
 
+## How the code works in Jupyter notebook ?
+
+
+https://user-images.githubusercontent.com/54185918/159142991-058e6ba3-03c0-4dd1-9041-85af1362bc9a.mp4
+
+
