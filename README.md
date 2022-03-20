@@ -50,7 +50,7 @@ o tweets and favorite counts merged with archived_breeds_cleanforming archived_b
 
 ### Final DataFrame was stored as archived_breeds_favs_retweets_final.csv and conducted visualization and analysis programatically by python library.
 
-## Reports of the Insights
+## Report of the Insights
 
 ### Insights and Analysis
 we rate dogs is a twitter account where dog lovers post ratings about different dog breeds in a funny way giving them different ratings with domenators base 10,Data here provided from __-_- to ---- and hereby some quick facts about activities done on we rate dogs account.
